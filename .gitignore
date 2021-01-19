@@ -3,3 +3,5 @@
 
 # Data Files
 *.csv
+
+.bash_profile
